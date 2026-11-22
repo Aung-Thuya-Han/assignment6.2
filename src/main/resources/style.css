@@ -1,0 +1,8 @@
+.root {
+    -fx-font-family: "Arial";
+    -fx-font-size: 15px;
+}
+
+.error {
+    -fx-text-fill: #a12622;
+}
